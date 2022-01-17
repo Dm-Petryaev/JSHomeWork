@@ -1,5 +1,5 @@
 var x = 0;
 while (x < 3) {
-    x++;
-    console.log(x++)
+    console.log(x)
+    x++
 }
